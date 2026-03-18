@@ -11,7 +11,7 @@ Students were tasked with conducting four distinct art workshops entirely in the
 
 To succeed, students had to master professional German vocabulary, understand technical safety procedures, and coordinate complex logistics with the host school.
 
-##  Solutions & Tools
+##  Solutions and Tools
 
 ### 1. Educational E-book: "Kunst mal vier"
 * **Tool:** Microsoft Publisher
@@ -25,9 +25,9 @@ To succeed, students had to master professional German vocabulary, understand te
 * **Content:** Detailed procedures for operating heavy machinery (printing press) and handling chemicals (Cyanotype solutions).
 * **Purpose:** Ensuring a safe working environment and professional instruction standards during the "Instructor-Participant" interaction.
 
-##  Process & Coordination
+##  Process and Coordination
 
-* **Logistics & Communication:** Through correspondence in German, students verified the host school's technical infrastructure. They confirmed the availability of a professional printing press, which was essential for the Copperplate Engraving workshop.
+* **Logistics and Communication:** Through correspondence in German, students verified the host school's technical infrastructure. They confirmed the availability of a professional printing press, which was essential for the Copperplate Engraving workshop.
 * **Mentorship:** The project was overseen by a German Language Teacher. The teacher acted as a supervisor, observing the students' work and providing support only upon request, which fostered high levels of student independence and leadership.
 * **Safety First:** Specific protocols were developed for using personal protective equipment (single-use latex gloves) and managing the printing press (pinch hazard prevention).
 
